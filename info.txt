@@ -1,0 +1,35 @@
+Data Set Information:
+
+Bộ dữ liệu này bao gồm dữ liệu để ước tính mức độ béo phì ở các cá nhân từ các quốc gia Nam Mỹ, dựa trên thói quen ăn uống và tình trạng thể chất của họ. Dữ liệu chứa 17 thuộc tính, các bản ghi được gắn nhãn biến lớp NObesity (Mức độ béo phì), cho phép phân loại dữ liệu bằng các giá trị Không đủ cân nặng (Insufficient Weigh), Cân nặng bình thường (Normal Weight), Thừa cân mức độ I, Thừa cân mức độ II (Overweight Level I, II), Loại béo phì I , Béo phì loại II và Béo phì loại III (Obesity Type I, II, III). 
+
+
+Các thuộc tính:
+Gender: Giới tính
+Age: Tuổi
+Height: Chiều cao (m)
+family_history_with_overweight: Trong gia đình có người béo phì hay không ?
+FAVC: Có ăn thức ăn calo cao thường xuyên ?
+FCVC: thường ăn kèm rau trong bữa ăn ?
+	1: Không bao giờ
+	2: Thỉnh thoảng
+	3: Luôn luôn
+NCP: Bao nhiêu bữa ăn chính hàng ngày ?
+CAEC: Có ăn thêm giữa các bữa chính ?
+SMOKE: có hút thuốc ?
+CH2O: uống bao nhiêu nước hàng ngày ?
+	1: Ít hơn 1 lit
+	2: 1l - 2l
+	3: nhiều hơn 2lit
+SCC: có theo dõi lượng calo tiêu thụ hàng ngày ?
+FAF: tập thể dục bao nhiêu mỗi tuần ?
+	0: Không có
+	1: 1-2 ngày
+	2: 2-4 ngày
+	3: 4-5 ngày
+	4: hơn 5 ngày
+TUE: dành bao nhiêu giờ mỗi ngày với các thiết bị điện tử (TV, máy tính, điện thoại, ...)
+	0: 0-2h
+	1: 3-5h
+	2: >5h
+CALC: có thường xuyên uống các đồ uống có cồn ?
+MTRANS: phương tiện di chuyển thường sử dụng
